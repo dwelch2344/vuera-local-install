@@ -13348,12 +13348,12 @@ __metadata:
   linkType: hard
 
 "vue@file:./libs/@example/vue::locator=aa-react-vuera%40workspace%3A.":
-  version: 2.7.16
-  resolution: "vue@file:./libs/@example/vue#./libs/@example/vue::hash=a31295&locator=aa-react-vuera%40workspace%3A."
+  version: 2.7.16-example
+  resolution: "vue@file:./libs/@example/vue#./libs/@example/vue::hash=597fce&locator=aa-react-vuera%40workspace%3A."
   dependencies:
     "@vue/compiler-sfc": 2.7.16
     csstype: ^3.1.0
-  checksum: ee3cb186fbea85e87db812c7b90634fd09cdfe759beb8f0c21301321a9c725f029ab6f28036ddb55886a1ad3bce86ae139215bc75d0044ef7f0aee6c01c7cff4
+  checksum: 95790e1ef1939c0b2bf33f29e39b3b5aff380e0354454847faef1c8a682e7bbc9def3f0b6b172c818cdac329fbb9cd4eafb88a0edf8cc4c7333daf1fb0af5127
   languageName: node
   linkType: hard
 
